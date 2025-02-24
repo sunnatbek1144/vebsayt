@@ -1,0 +1,6 @@
+body{
+    background-color: hsl(from color h s l);
+    margin: 10px;
+    padding: 5px;
+    box-shadow: 5px 10px 10px;
+}
