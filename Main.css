@@ -1,10 +1,18 @@
-body{
-    background-color:black;
-    margin: 10px;
-    padding: 5px;
-    box-shadow: 5px 10px 10px;
-    color: blue;
+@import url('https://fonts.googleapis.com/css2?family=Cherish&family=Galada&family=Jua&family=Monsieur+La+Doulaise&family=Mukta:wght@200;300;400;500;600;700;800&family=Noto+Sans+JP:wght@100..900&family=Playwrite+DE+LA+Guides&family=Tai+Heritage+Pro:wght@400;700&family=Tangerine:wght@400;700&family=Zen+Antique+Soft&display=swap');
+
+
+body {
+  background-color: black;
+  margin: 10px;
+  padding: 5px;
+  box-shadow: 5px 10px 10px;
+  color: blue;
 }
-li{
-    color: aqua;
+li {
+  color: aqua;
+}
+.container {
+  font-family: "Monsieur La Doulaise", serif;
+  font-weight: 400;
+  font-style: normal;
 }
